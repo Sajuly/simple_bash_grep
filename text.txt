@@ -1,0 +1,11 @@
+void flag_up (int argc, char *argv[]);
+void print_text();
+
+int main(int argc, char *argv[]) {
+
+    flag_up (argc, argv);
+    // printf("v: %d\n", flag_v);
+    print_text();
+
+    return 0;
+}- eprst
